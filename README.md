@@ -1,5 +1,5 @@
 # proyectos-interesantes
 Awesome projects 
 
-Influx
+## Influx
 - [InfluxDB] (https://www.influxdata.com/) - time series database
